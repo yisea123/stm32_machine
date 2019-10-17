@@ -1,0 +1,63 @@
+*** Creating Trace Output File '.\obj\cash_provide.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\obj\startup_stm32f10x_hd.o"'
+### List of Objects: adding '".\obj\core_cm3.o"'
+### List of Objects: adding '".\obj\system_stm32f10x.o"'
+### List of Objects: adding '".\obj\misc.o"'
+### List of Objects: adding '".\obj\stm32f10x_dma.o"'
+### List of Objects: adding '".\obj\stm32f10x_exti.o"'
+### List of Objects: adding '".\obj\stm32f10x_flash.o"'
+### List of Objects: adding '".\obj\stm32f10x_gpio.o"'
+### List of Objects: adding '".\obj\stm32f10x_i2c.o"'
+### List of Objects: adding '".\obj\stm32f10x_fsmc.o"'
+### List of Objects: adding '".\obj\stm32f10x_tim.o"'
+### List of Objects: adding '".\obj\stm32f10x_usart.o"'
+### List of Objects: adding '".\obj\stm32f10x_wwdg.o"'
+### List of Objects: adding '".\obj\stm32f10x_spi.o"'
+### List of Objects: adding '".\obj\stm32f10x_rcc.o"'
+### List of Objects: adding '".\obj\stm32f10x_dac.o"'
+### List of Objects: adding '".\obj\baud_adapt_lib.o"'
+### List of Objects: adding '".\obj\i2c_eeprom.o"'
+### List of Objects: adding '".\obj\parallel_to_serial.o"'
+### List of Objects: adding '".\obj\pin.o"'
+### List of Objects: adding '".\obj\serial_to_parallel.o"'
+### List of Objects: adding '".\obj\step_motor_basic.o"'
+### List of Objects: adding '".\obj\usart.o"'
+### List of Objects: adding '".\obj\dcmotor_lib.o"'
+### List of Objects: adding '".\obj\qrcode_scan_lib_hw.o"'
+### List of Objects: adding '".\obj\main.o"'
+### List of Objects: adding '".\obj\stm32f10x_it.o"'
+### List of Objects: adding '".\obj\settings.o"'
+### List of Objects: adding '".\obj\actions.o"'
+### List of Objects: adding '".\obj\console.o"'
+### List of Objects: adding '".\obj\console_cmd.o"'
+### List of Objects: adding '".\obj\autobaud.o"'
+### List of Objects: adding '".\obj\digtube.o"'
+### List of Objects: adding '".\obj\key.o"'
+### List of Objects: adding '".\obj\led.o"'
+### List of Objects: adding '".\obj\lowpower.o"'
+### List of Objects: adding '".\obj\maincom.o"'
+### List of Objects: adding '".\obj\sensor.o"'
+### List of Objects: adding '".\obj\switch.o"'
+### List of Objects: adding '".\obj\com.o"'
+### List of Objects: adding '".\obj\motor.o"'
+### List of Objects: adding '".\obj\eeprom.o"'
+### List of Objects: adding '".\obj\flash_nvm.o"'
+### List of Objects: adding '".\obj\dcmotor.o"'
+### List of Objects: adding '".\obj\qrcode_scan.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M3 ".\obj\startup_stm32f10x_hd.o" ".\obj\core_cm3.o" ".\obj\system_stm32f10x.o" ".\obj\misc.o" ".\obj\stm32f10x_dma.o" ".\obj\stm32f10x_exti.o" ".\obj\stm32f10x_flash.o" ".\obj\stm32f10x_gpio.o" ".\obj\stm32f10x_i2c.o" ".\obj\stm32f10x_fsmc.o" ".\obj\stm32f10x_tim.o" ".\obj\stm32f10x_usart.o" ".\obj\stm32f10x_wwdg.o" ".\obj\stm32f10x_spi.o" ".\obj\stm32f10x_rcc.o" ".\obj\stm32f10x_dac.o" ".\obj\baud_adapt_lib.o" ".\obj\i2c_eeprom.o" ".\obj\parallel_to_serial.o" ".\obj\pin.o" ".\obj\serial_to_parallel.o" ".\obj\step_motor_basic.o" ".\obj\usart.o" ".\obj\dcmotor_lib.o" ".\obj\qrcode_scan_lib_hw.o" ".\obj\main.o" ".\obj\stm32f10x_it.o" ".\obj\settings.o" ".\obj\actions.o" ".\obj\console.o" ".\obj\console_cmd.o" ".\obj\autobaud.o" ".\obj\digtube.o" ".\obj\key.o" ".\obj\led.o" ".\obj\lowpower.o" ".\obj\maincom.o" ".\obj\sensor.o" ".\obj\switch.o" ".\obj\com.o" ".\obj\motor.o" ".\obj\eeprom.o" ".\obj\flash_nvm.o" ".\obj\dcmotor.o" ".\obj\qrcode_scan.o" --strict --scatter ".\obj\cash_provide.sct" 
+--autoat --summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\lst\cash_provide.map" -o ".\obj\cash_provide.axf"### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\obj\cash_provide.axf'
+### ADS-LD Command File: '.\obj\cash_provide.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\obj\cash_provide.lnp', Handle=0x0000068C
+### Writing '.lnp' file
+### ADS-LD Command file '.\obj\cash_provide.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.
